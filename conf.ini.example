@@ -1,0 +1,16 @@
+; This is your config example.
+; DO NOT USE QUOTES UNLESS IF IT ASKS FOR IT
+
+[setup]
+token = <your token here>
+command_prefix = !
+guild = <your guild>
+
+[modmail]
+allowed_roles = <seperate with colons>
+
+[report]
+channel = <seperate with ,>
+
+[suggest]
+channel = <seperate with ,>
